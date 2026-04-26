@@ -1,2 +1,9 @@
-# fast-rss-reader-util-49
-A simple rss reader project
+# Rss Reader
+
+A simple rss reader project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
